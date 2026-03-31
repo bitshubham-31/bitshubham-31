@@ -31,7 +31,7 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
 ```python
-class Rajpal_Nishad:
+class Shubham_Bhardwaj:
     def __init__(self):
         self.name = "Shubham Bhardwaj"
         self.role = "AWS Cloud Engineer"
